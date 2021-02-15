@@ -39,7 +39,7 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 ![Sql Server](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=Microsoft%20Sql%20Server&logoColor=A8B9CC)
 ![Sqlite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=A8B9CC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=A8B9CC)\
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=PyCharm&logoColor=A8B9CC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Intellij](https://img.shields.io/badge/-Intellij%20IDEA-05122A?style=flat&logo=Intellij%20IDEA&logoColor=A8B9CC)&nbsp;
