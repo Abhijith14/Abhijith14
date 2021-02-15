@@ -28,7 +28,8 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhijith14/Abhijith14)
 
 
- 
+ #### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{Abhijith14}/count.svg)
