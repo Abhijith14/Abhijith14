@@ -92,7 +92,7 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 <a href="https://instagram.com/a_b_h_i_j_i_t_h._.14"><img src="https://img.shields.io/badge/-@a_b_h_i_j_i_t_h._.14-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/abhijith.udayakumar.14"><img src="https://img.shields.io/badge/-@abhijith.udayakumar.14-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/AbhijithUdayak1"><img src="https://img.shields.io/badge/-@AbhijithUdayak1-4D9FEB?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.kaggle.com/abhijithudayakumar"><img src="https://img.shields.io/badge/-@abhijithudayakumar?style=flat&logo=Kaggle&logoColor=white"/></a>
+<a href="https://www.kaggle.com/abhijithudayakumar"><img src="https://img.shields.io/badge/-@abhijithudayakumar-1769FF?style=flat&logo=Kaggle&logoColor=white"/></a>
 </p>
 
 
