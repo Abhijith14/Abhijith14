@@ -45,9 +45,13 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 ![Intellij](https://img.shields.io/badge/-Intellij%20IDEA-05122A?style=flat&logo=Intellij%20IDEA&logoColor=A8B9CC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual%20Studio&logoColor=8000FF)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio)&nbsp;\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)
 
 
 
