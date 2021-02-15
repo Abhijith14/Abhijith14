@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python Developer. I'm from India, living in Kerala and currently working as CEO of <a href="https://createwithbuddy.tech" target="_blank">BUDDY Developer</a>. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
