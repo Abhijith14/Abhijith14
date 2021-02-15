@@ -10,7 +10,7 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/Code.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/code.gif" align="right"/>
 
 ### 🛠 &nbsp;Technologies & Tools
 
