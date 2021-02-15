@@ -38,6 +38,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 -->
 
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Abhijith14/Abhijith14">
@@ -47,6 +49,20 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Abhijith's GitHub Stats" />
 </a>
 
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
+  </a>
+  <p>
+    <img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
+    <a href="https://github.com/kaizoku-oh/"><img src="https://img.shields.io/github/followers/kaizoku-oh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+    <a href="mailto:garssallaoui.bayrem@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
+  </p>
+</p>
 <!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
