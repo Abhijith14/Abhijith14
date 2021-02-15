@@ -8,17 +8,9 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 <a href="https://www.createwithbuddy.tech" style="color : #E9538D;" target="_blank" rel="noopener noreferrer">BUDDY Developer</a>
  and Technical & Operation Support Officer at <a href="https://www.gadssolutions.in/" target="_blank" rel="noopener noreferrer">GADS (Geeks At Designing Solutions)</a>.
 
-<!--  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. --> 
-
-<!-- <img align="right" alt="GIF" src="https://github.com/Abhijith14/Abhijith14/blob/master/git.gif?raw=true" /> -->
-
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
 
-<!-- ## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/Code.gif" align="right"/>
 
 ### 🛠 &nbsp;Technologies & Tools
 
