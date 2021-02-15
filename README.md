@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/readme_header.png "Header")](https://www.google.com/)
+[![Header](https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/readme_header.png "Header")](https://www.google.com/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/wave.gif" width="30px">
 
 My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python Developer. I'm from India, living in Kerala and currently working as CEO of 
 <a href="https://www.createwithbuddy.tech" style="color : #E9538D;" target="_blank" rel="noopener noreferrer">BUDDY Developer</a>
@@ -8,7 +8,7 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/code.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif" align="right"/>
 
 ### 🛠 &nbsp;Technologies & Tools
 
