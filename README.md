@@ -1,72 +1,101 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+
+[![Header](https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/readme_header.png "Header")](https://martinheinz.dev/)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/wave.gif" width="30px">
+
+My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python Developer. I'm from India, living in Kerala and currently working as CEO of <a href="https://www.createwithbuddy.tech" style="color : #E9538D;" target="_blank" rel="noopener noreferrer">BUDDY Developer</a>
+ and Technical & Operation Support Officer at <a href="https://www.gadssolutions.in/" target="_blank" rel="noopener noreferrer">GADS (Geeks At Designing Solutions)</a>. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
+
+<!-- ## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+<!-- ## &#x1f4c8; Stats
+
+<a href="https://github.com/Abhijith14/Abhijith14">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijith14&theme=algolia" alt="Abhijith's GitHub Languages"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Abhijith14/Abhijith14">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" alt="Abhijith's GitHub Stats" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+-->
+
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Abhijith14/Abhijith14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith14&theme=radical" alt="Abhijith's GitHub Languages"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Abhijith14/Abhijith14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Abhijith's GitHub Stats" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+
+<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- ✨ **Wanna Talk?** [calendly](https://calendly.com/abhishknads)
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          15 hrs 13 mins  ████████████████████████▒   97.27 % 
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-```
-<!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,455 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 578 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  -->   
 
 
-📈 My GitHub Stats
+## 📫 Get in touch
+- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
+- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
+- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+ or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
 
 
 
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/AbhijithUdayak1
+[2]: https://github.com/Abhijith14
+[3]: https://www.linkedin.com/in/abhijith-udayakumar-6372b91a3/
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
