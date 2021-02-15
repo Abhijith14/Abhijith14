@@ -30,6 +30,6 @@ Here are a few things I've picked up along my learning journey.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhijith14/Abhijith14)
 
+<img alt="Abhijith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&show_icons=true&hide_border=true" />
 
- #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{Abhijith14}/count.svg)
+<img alt="Abhijith's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith14&layout=compact&hide_border=true" />
