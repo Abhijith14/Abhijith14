@@ -19,10 +19,6 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-05122A?style=flat&logo=.NET&logoColor=276DC3)&nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=C%20Sharp&logoColor=A8B9CC)&nbsp;\
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=A8B9CC)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=A8B9CC)&nbsp;\
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
@@ -35,13 +31,20 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=A8B9CC)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=A8B9CC)&nbsp;\
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql&logoColor=A8B9CC)
 ![Sql Server](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=Microsoft%20Sql%20Server&logoColor=A8B9CC)
 ![Sqlite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=A8B9CC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=A8B9CC)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=PyCharm&logoColor=A8B9CC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Intellij](https://img.shields.io/badge/-Intellij%20IDEA-05122A?style=flat&logo=Intellij%20IDEA&logoColor=A8B9CC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
