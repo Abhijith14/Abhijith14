@@ -8,7 +8,7 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code2.gif" align="right" width=400 />
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code3.gif" align="right" width=400 />
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/coding.gif" align="right" width=400 /> -->
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif" align="right"/> -->
 
