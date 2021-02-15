@@ -6,6 +6,8 @@
 
 My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python Developer. I'm from India, living in Kerala and currently working as CEO of <a href="https://www.createwithbuddy.tech" target="_blank" rel="noopener noreferrer">BUDDY Developer</a> and Technical & Operation Support Officer at <a href="https://www.gadssolutions.in/" target="_blank" rel="noopener noreferrer">GADS (Geeks At Designing Solutions)</a>. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhijith14/Abhijith14)
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
