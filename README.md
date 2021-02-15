@@ -3,7 +3,7 @@
 
 I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
 
-#### 🔭 I’m currently looking for new opportunities .												![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhijith14/Abhijith14)
+#### 🔭 I’m currently looking for new opportunities .												<span style="float : right;">![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhijith14/Abhijith14)</span>
 
 
 ## ⚡ Tech Stack
