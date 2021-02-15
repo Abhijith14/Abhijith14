@@ -9,7 +9,7 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 
 <!--  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. --> 
 
- <img align="right" alt="GIF" src="https://github.com/Abhijith14/Abhijith14/blob/master/git.gif?raw=true" />
+ <img align="right" alt="GIF" src="https://github.com/Abhijith14/Abhijith14/blob/master/git.gif?raw=true" width = 50/>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
 
