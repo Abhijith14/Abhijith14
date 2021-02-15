@@ -28,8 +28,9 @@ Here are a few things I've picked up along my learning journey.
 
 
 
+<img alt="Abhijith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&show_icons=true&hide_border=true" style="float : left;"/>
+
+<img alt="Abhijith's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith14&layout=compact&hide_border=true" style="float : right;" />
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhijith14/Abhijith14)
-
-<img alt="Abhijith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&show_icons=true&hide_border=true" />
-
-<img alt="Abhijith's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith14&layout=compact&hide_border=true" />
