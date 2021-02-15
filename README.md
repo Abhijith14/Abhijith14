@@ -9,6 +9,8 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 
 <!--  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. --> 
 
+ <img align="right" alt="GIF" src="https://github.com/Abhijith14/Abhijith14/blob/master/git.gif?raw=true" />
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
 
 <!-- ## &#x270d; Blog & Writing
@@ -29,8 +31,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-<img align="right" alt="GIF" src="https://github.com/Abhijith14/Abhijith14/blob/master/git.gif?raw=true" width = 150/>
 
 <!-- ## &#x1f4c8; Stats
 
