@@ -35,6 +35,10 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql&logoColor=A8B9CC)
+![Sql Server](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=Microsoft%20Sql%20Server&logoColor=A8B9CC)
+![Sqlite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=A8B9CC)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=A8B9CC)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
