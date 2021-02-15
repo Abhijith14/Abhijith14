@@ -41,7 +41,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith14&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhijith's GitHub Languages"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Abhijith14/Abhijith14">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhijith's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Abhijith's GitHub Stats" />
 </a>
 
 <!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
