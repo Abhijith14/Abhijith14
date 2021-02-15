@@ -16,9 +16,10 @@ My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![VB.NET](https://img.shields.io/badge/-VB.NET-05122A?style=flat&logo=.NET&logoColor=276DC3)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![VB.NET](https://img.shields.io/badge/-VB.NET-05122A?style=flat&logo=.NET&logoColor=276DC3)&nbsp;\
 ![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=C%20Sharp&logoColor=A8B9CC)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
