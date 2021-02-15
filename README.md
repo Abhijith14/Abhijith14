@@ -35,6 +35,16 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
  or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
 
+## &#x1f4c8; Stats
+
+<a href="https://github.com/Abhijith14/Abhijith14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith14&theme=radical" alt="Abhijith's GitHub Languages"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Abhijith14/Abhijith14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Abhijith's GitHub Stats" />
+</a>
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Abhijith14/Abhijith14">
