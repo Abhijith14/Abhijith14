@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/wave.gif" width="30px">
 
-My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python Developer. I'm from India, living in Kerala and currently working as CEO of <a href="https://www.createwithbuddy.tech" target="_blank">BUDDY Developer</a> and Technical & Operation Support Officer at <a href="https://www.gadssolutions.in/" target="_blank">GADS (Geeks At Designing Solutions)</a> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Abhijith Udayakumar and I'm a Machine-learning enthusiast and Python Developer. I'm from India, living in Kerala and currently working as CEO of <a href="https://www.createwithbuddy.tech" target="_blank" rel="noopener noreferrer">BUDDY Developer</a> and Technical & Operation Support Officer at <a href="https://www.gadssolutions.in/" target="_blank" rel="noopener noreferrer">GADS (Geeks At Designing Solutions)</a>. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
@@ -54,14 +54,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/AbhijithUdayak1
+[2]: https://github.com/Abhijith14
+[3]: https://www.linkedin.com/in/abhijith-udayakumar-6372b91a3/
 
 
 <!-- Resources -->
