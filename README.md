@@ -28,13 +28,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
-- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
-- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
-
- or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
-
 <!-- ## &#x1f4c8; Stats
 
 <a href="https://github.com/Abhijith14/Abhijith14">
@@ -62,6 +55,16 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  -->   
+
+
+## 📫 Get in touch
+- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
+- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
+- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
+
+ or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
+
+
 
 <!-- links to social media icons -->
 
