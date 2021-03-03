@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/readme_header.png "Header")](https://www.google.com/)
+[![Header](https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/readme_header.png "Header")](https://abhijith14.github.io/Portfolio-v1/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/wave.gif" width="30px">
 
@@ -88,6 +88,7 @@ My name is Abhijith Udayakumar and I'm a **Machine-learning enthusiast and Pytho
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://abhijith14.github.io/Portfolio-v1/"><img src="https://img.shields.io/badge/-My%20Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.createwithbuddy.tech"><img src="https://img.shields.io/badge/-Create%20With%20BUDDY-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abhijith-udayakumar-6372b91a3/"><img src="https://img.shields.io/badge/-Abhijith%20Udayakumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abhijithukzm@gmail.com"><img src="https://img.shields.io/badge/-abhijithukzm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
