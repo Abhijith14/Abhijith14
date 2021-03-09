@@ -92,8 +92,8 @@ My name is Abhijith Udayakumar and I'm a **Machine-learning enthusiast and Pytho
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=ModernCalculatorVB&theme=tokyonight)](https://github.com/Abhijith14/ModernCalculatorVB)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=StockManagement-Csharp&theme=dark)](https://github.com/Abhijith14/StockManagement-Csharp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=BUDDY-WEB-v3&theme=radical)](https://github.com/Abhijith14/BUDDY-WEB-v3)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=BAESIX-XII-Project&theme=tokyonight)](https://github.com/Abhijith14/BAESIX-XII-Project) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Calculator-App&theme=dark)](https://github.com/Abhijith14/Calculator-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=BAESIX-XII-Project&theme=merko)](https://github.com/Abhijith14/BAESIX-XII-Project) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Calculator-App&theme=nightowl)](https://github.com/Abhijith14/Calculator-App)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Portfolio-v1&theme=tokyonight)](https://github.com/Abhijith14/Portfolio-v1) 
 
 <br>
