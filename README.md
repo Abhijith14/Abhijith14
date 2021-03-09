@@ -9,6 +9,8 @@ My name is Abhijith Udayakumar and I'm a **Machine-learning enthusiast and Pytho
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/avento.gif" align="right" width=400 />-->
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/coding.gif" align="right" width=400 /> -->
+<br>
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif" align="right"/> 
 
 ### 🛠 &nbsp;Technologies & Tools
@@ -56,36 +58,47 @@ My name is Abhijith Udayakumar and I'm a **Machine-learning enthusiast and Pytho
 
 
 
-<!-- 
+<br>
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; 
+## ⚙️ &nbsp;GitHub Analytics
 
--->
-
-<!-- ## &#x1f4c8; Stats
-
-<a href="https://github.com/Abhijith14/Abhijith14">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijith14&theme=algolia" alt="Abhijith's GitHub Languages"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Abhijith14/Abhijith14">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" alt="Abhijith's GitHub Stats" />
-</a>
--->
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
+<!-- <details open>
+<summary>Github Stats with Grade</summary> -->
+<br>
 <p align="center">
 <a href="https://github.com/Abhijith14">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhijith14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhijith14&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<!-- </details> -->
+<!--<br>
+<details>
+    <summary>Github Stats with Streak</summary>
+    <br>
+    <p align="center">
+        <a href="https://github.com/Abhijith14">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijith14&theme=algolia" alt="Abhijith's GitHub Languages"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" alt="Abhijith's GitHub Stats" />
+        </a>
+    </p>
+</details> -->
+<br>
 
+## 💻 &nbsp;Trending Repos
 
-### 🤝🏻 &nbsp;Connect with Me
+<br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=ModernCalculatorVB&theme=tokyonight)](https://github.com/Abhijith14/ModernCalculatorVB)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=StockManagement-Csharp&theme=dark)](https://github.com/Abhijith14/StockManagement-Csharp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=BUDDY-WEB-v3&theme=tokyonight)](https://github.com/Abhijith14/BUDDY-WEB-v3)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=BAESIX-XII-Project&theme=tokyonight)](https://github.com/Abhijith14/BAESIX-XII-Project) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Calculator-App&theme=dark)](https://github.com/Abhijith14/Calculator-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Portfolio-v1&theme=tokyonight)](https://github.com/Abhijith14/Portfolio-v1) 
+
+<br>
+
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://abhijith14.github.io/Portfolio-v1/"><img src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/My Portfolio.png" width="137px" height="20px"/></a>
