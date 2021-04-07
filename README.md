@@ -67,8 +67,8 @@ My name is Abhijith Udayakumar and I'm a **Machine-learning enthusiast and Pytho
 <br>
 <p align="center">
 <a href="https://github.com/Abhijith14">
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Abhijith14&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Abhijith14&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith14&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 </p>
 <!-- </details> -->
