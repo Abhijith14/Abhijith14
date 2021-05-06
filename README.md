@@ -90,8 +90,8 @@ My name is Abhijith Udayakumar and I'm a **Machine-learning enthusiast and Pytho
 
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Discord-Bot&theme=tokyonight)](https://github.com/Abhijith14/discord-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=JavaElab&theme=dark)](https://github.com/Abhijith14/JavaElab) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=SnakeGame-ML&theme=tokyonight)](https://github.com/Abhijith14/SnakeGame-ML) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Discord-Bot&theme=dark)](https://github.com/Abhijith14/discord-bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=ModernCalculatorVB&theme=prussian)](https://github.com/Abhijith14/ModernCalculatorVB)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=StockManagement-Csharp&theme=vue-dark)](https://github.com/Abhijith14/StockManagement-Csharp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=BUDDY-WEB-v3&theme=radical)](https://github.com/Abhijith14/BUDDY-WEB-v3)
