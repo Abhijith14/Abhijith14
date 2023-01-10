@@ -11,7 +11,8 @@ My name is Abhijith Udayakumar and I'm a **Machine-learning enthusiast and Pytho
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/coding.gif" align="right" width=400 /> -->
 <br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif" align="right"/> 
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif" align="right"/>  -->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/coder.gif" align="right" width="400"/> 
 
 ### 🛠 &nbsp;Technologies & Tools
 
