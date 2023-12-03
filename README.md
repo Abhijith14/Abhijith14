@@ -2,7 +2,7 @@
 
 # Hello, folks!
 
-My name is Abhijith Udayakumar and I'm an **accomplished AI and Python expert** with several years of experience driving innovation across numerous projects. **Award-winning specialist in computer vision, NLP, and automation. Led high-impact initiatives** elevating user experiences. MSc in AI from University of Aberdeen. **Proven record delivering transformation** through cutting-edge solutions focused on business value. **Passionate about advancing technologies and elevating teams.** Checkout <a href="https://github.com/Abhijith14/Abhijith14/blob/master/Resume.pdf">My Resume</a>.
+My name is Abhijith Udayakumar and I'm an **accomplished AI and Python expert** with several years of experience driving innovation across numerous projects. **Award-winning specialist in computer vision, NLP, and automation. Led high-impact initiatives** elevating user experiences. **Proven record delivering transformation** through cutting-edge solutions focused on business value. **Passionate about advancing technologies and elevating teams.** Checkout <a href="https://github.com/Abhijith14/Abhijith14/blob/master/Resume.pdf">My Resume</a>.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
 
