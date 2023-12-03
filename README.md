@@ -2,8 +2,7 @@
 
 # Hello, folks!
 
-My name is Abhijith Udayakumar and I'm a **Machine-learning enthusiast and Python Developer**. I'm from India, living in Kerala and currently working as CEO of 
-<a href="https://www.createwithbuddy.tech" style="color : #E9538D;" target="_blank" rel="noopener noreferrer">BUDDY Developer</a>, Technical & Operation Support Officer at <a href="https://www.gadssolutions.in/" target="_blank" rel="noopener noreferrer">GADS (Geeks At Designing Solutions)</a> and Head of Media-Reach team in <a href="https://live-wires.herokuapp.com/" target="_blank" rel="noopener noreferrer">LiveWires_ Student Club SRMIST</a>. Checkout <a href="https://github.com/Abhijith14/Abhijith14/blob/master/Resume.pdf">My Resume</a>.
+My name is Abhijith Udayakumar and I'm an **accomplished AI and Python expert** with several years of experience driving innovation across numerous projects. **Award-winning specialist in computer vision, NLP, and automation. Led high-impact initiatives** elevating user experiences. MSc in AI from University of Aberdeen. **Proven record delivering transformation** through cutting-edge solutions focused on business value. **Passionate about advancing technologies and elevating teams.** Checkout <a href="https://github.com/Abhijith14/Abhijith14/blob/master/Resume.pdf">My Resume</a>.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
 
