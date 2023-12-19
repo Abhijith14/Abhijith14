@@ -61,10 +61,6 @@ My name is Abhijith Udayakumar and I'm an **accomplished AI and Python expert** 
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<!-- <details open>
-<summary>Github Stats with Grade</summary> -->
-<br>
 <p align="center">
 <a href="https://github.com/Abhijith14">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=tokyonight"/>  
